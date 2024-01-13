@@ -1,6 +1,7 @@
 
 /*
  Interface BinaryMatrix is provided by leetcode.com
+ Do not include the interface when running the code on the website.
  The comments below are from leetcode.com
  */
 // This is the BinaryMatrix's API interface.
